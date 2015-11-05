@@ -1,0 +1,16 @@
+﻿Build started 11/5/2015 10:02:14 PM.
+     1>Project "C:\Users\KimUyên\Documents\GitHub\SLAM\Slam\Slam\Slam.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\Libraries\Headers /I.\GeneratedFiles /I. /IC:\Qt\Qt5.5.0\5.5\msvc2013\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.5.0\5.5\msvc2013\include\QtCore /IC:\Qt\Qt5.5.0\5.5\msvc2013\include\QtGui /IC:\Qt\Qt5.5.0\5.5\msvc2013\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt slam.cpp
+         slam.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\KimUyên\Documents\GitHub\SLAM\Slam\Win32\Debug\\Slam.exe" /NOLOGO /LIBPATH:.\Libraries\Libs /LIBPATH:C:\Qt\Qt5.5.0\5.5\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib opencv_ts300d.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\KimUyên\Documents\GitHub\SLAM\Slam\Win32\Debug\Slam.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\KimUyên\Documents\GitHub\SLAM\Slam\Win32\Debug\Slam.lib" /MACHINE:X86 /SAFESEH Debug\moc_slam.obj
+         Debug\qrc_slam.obj
+         Debug\main.obj
+         Debug\slam.obj
+         Slam.vcxproj -> C:\Users\KimUyên\Documents\GitHub\SLAM\Slam\Win32\Debug\Slam.exe
+     1>Done Building Project "C:\Users\KimUyên\Documents\GitHub\SLAM\Slam\Slam\Slam.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:19.38
